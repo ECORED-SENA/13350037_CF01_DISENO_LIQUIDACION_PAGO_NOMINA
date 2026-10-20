@@ -8,7 +8,7 @@
         h1 Modalidades de contratación y efectos laborales
       .row.justify-content-center.align-items-stretch
         .col-12.col-md-12.col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
-          .bg-color-2.p-4.rounded-4.h-100.d-flex.align-items-center
+          .bg-color-8.p-4.rounded-4.h-100.d-flex.align-items-center
             p.mb-0 La <b>modalidad contractual</b> debe seleccionarse de acuerdo con la naturaleza, la duración y las condiciones reales del trabajo. Esta decisión influye en la fecha de ingreso, la permanencia del vínculo, los pagos laborales, las prestaciones sociales, la seguridad social y las novedades que posteriormente deben incorporarse en la nómina.
         .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0(data-aos="zoom-in")
           .h-100.d-flex
@@ -131,7 +131,7 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/78MBSLk6L70?si=taNu6KAm53E1KJcv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
@@ -297,7 +297,7 @@
           figure.mb-0.text-center
             img.mx-auto.img-fluid(src='@/assets/curso/temas/t2/img14.png', alt='', style="max-width: 600px;")
         .col-12.col-lg-8.order-2.order-lg-2(data-aos="fade-left")
-          p.mb-3.bg-color-2.p-2 Sin embargo, el nombre del contrato no determina la naturaleza real de la vinculación. Cuando concurren la <b>prestación personal del servicio, la remuneración y la subordinación continuada</b>, puede configurarse un <b>contrato realidad</b>. La subordinación puede reflejarse en órdenes permanentes, control sobre el modo y tiempo de trabajo, cumplimiento obligatorio de horarios, sometimiento a reglamentos y autorización para ausentarse. En tal caso, pueden surgir las obligaciones salariales, prestacionales y de seguridad social propias de una relación laboral.
+          p.mb-3.bg-color-8.p-2 Sin embargo, el nombre del contrato no determina la naturaleza real de la vinculación. Cuando concurren la <b>prestación personal del servicio, la remuneración y la subordinación continuada</b>, puede configurarse un <b>contrato realidad</b>. La subordinación puede reflejarse en órdenes permanentes, control sobre el modo y tiempo de trabajo, cumplimiento obligatorio de horarios, sometimiento a reglamentos y autorización para ausentarse. En tal caso, pueden surgir las obligaciones salariales, prestacionales y de seguridad social propias de una relación laboral.
       p(data-aos="fade-left") A continuación, se presenta un pódcast  sobre las principales diferencias entre el contrato laboral y el contrato de prestación de servicios, considerando su régimen aplicable, las partes, la subordinación y las condiciones de ejecución.
       //- Inicio Podcast
       .container-fluid.tarjeta.tarjeta--blanca.px-0.mb-4(data-aos="fade-left")
@@ -417,4 +417,3 @@ export default {
 </script>
 
 <style lang="sass"></style>
-

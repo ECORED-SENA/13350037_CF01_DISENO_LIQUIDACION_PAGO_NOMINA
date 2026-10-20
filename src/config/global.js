@@ -212,13 +212,193 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Afiliación',
+      significado:
+        'Procedimiento mediante el cual el trabajador queda vinculado a las entidades que administran los sistemas de salud, pensiones, riesgos laborales y compensación familiar.',
+    },
+    {
+      termino: 'Aporte parafiscal',
+      significado:
+        'Contribución asumida por el empleador y destinada a financiar la caja de compensación familiar, el SENA y el ICBF, según las condiciones aplicables.',
+    },
+    {
+      termino: 'Contrato de trabajo',
+      significado:
+        'Acuerdo verbal o escrito mediante el cual una persona presta un servicio personal bajo subordinación y recibe una remuneración.',
+    },
+    {
+      termino: 'Deducción',
+      significado:
+        'Valor descontado de los pagos del trabajador por concepto de aportes obligatorios, embargos, libranzas u otros descuentos autorizados.',
+    },
+    {
+      termino: 'Devengado',
+      significado:
+        'Conjunto de valores reconocidos al trabajador durante un periodo, como salario, horas extras, recargos, comisiones, auxilios y bonificaciones.',
+    },
+    {
+      termino: 'Ingreso base de cotización',
+      significado:
+        'Valor utilizado para calcular los aportes al Sistema de Seguridad Social Integral, de acuerdo con los pagos salariales y las novedades del periodo.',
+    },
+    {
+      termino: 'Novedad de nómina',
+      significado:
+        'Hecho temporal o permanente que modifica los datos, tiempos, pagos, deducciones o aportes de un trabajador durante un periodo.',
+    },
+    {
+      termino: 'Planilla Integrada de Liquidación de Aportes',
+      significado:
+        'Mecanismo utilizado para declarar y pagar los aportes a seguridad social y las demás contribuciones administradas mediante la PILA.',
+    },
+    {
+      termino: 'Prestación social',
+      significado:
+        'Beneficio económico adicional al salario que el empleador reconoce al trabajador, como prima de servicios, cesantías e intereses sobre cesantías.',
+    },
+    {
+      termino: 'Prenómina',
+      significado:
+        'Liquidación preliminar que permite revisar los devengados, deducciones, aportes, bases y valores netos antes de aprobar la nómina definitiva.',
+    },
+    {
+      termino: 'Relación laboral',
+      significado:
+        'Vínculo que se configura cuando concurren la prestación personal del servicio, la subordinación y la remuneración.',
+    },
+    {
+      termino: 'Salario',
+      significado:
+        'Remuneración directa recibida por el trabajador como contraprestación del servicio, independientemente de la denominación otorgada al pago.',
+    },
+    {
+      termino: 'Seguridad social',
+      significado:
+        'Sistema de protección que cubre contingencias relacionadas con salud, vejez, invalidez, muerte y riesgos derivados del trabajo.',
+    },
+    {
+      termino: 'Soporte de nómina',
+      significado:
+        'Documento físico o digital que demuestra el origen, la autorización, la fecha y las condiciones de una novedad o concepto liquidado.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Capacidad de identificar quién registró, revisó, modificó y aprobó la información durante el procesamiento de la nómina.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia: 'Colpensiones. (2016, 14 de mayo). Historia laboral.',
+      link: 'https://www.colpensiones.gov.co/preguntas-frecuentes/297/historia-laboral/',
+    },
+    {
+      referencia:
+        'Colpensiones. (2026, 22 de enero). ¿Cómo aportar para mi pensión?',
+      link: 'https://www.colpensiones.gov.co/educacion/publicaciones/2849/como-aportar-a-pension/',
+    },
+    {
+      referencia: 'Colpensiones. (2026, 20 de mayo). ¿Qué es el RPM?',
+      link: 'https://www.colpensiones.gov.co/pensiones/publicaciones/120/que-es-el-rpm/',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1951, 7 de junio). Código Sustantivo del Trabajo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1963, 1 de febrero). Ley 1 de 1963.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1988, 29 de diciembre). Ley 89 de 1988.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1990, 28 de diciembre). Ley 50 de 1990.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1993, 23 de diciembre). Ley 100 de 1993.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2008, 16 de julio). Ley 1221 de 2008.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2010, 29 de diciembre). Ley 1429 de 2010.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2012, 11 de julio). Ley 1562 de 2012.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2016, 7 de julio). Ley 1788 de 2016.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2021, 12 de mayo). Ley 2088 de 2021.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2021, 15 de julio). Ley 2101 de 2021.',
+      link: '',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2025, 25 de junio). Ley 2466 de 2025.',
+      link: '',
+    },
+    {
+      referencia:
+        'Corte Constitucional de Colombia. (2006, 4 de octubre). Sentencia C-823/06.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (s. f.). Sistema de pensiones y otras prestaciones.',
+      link: 'https://www.minsalud.gov.co/Proteccion-Social/RiesgosLaborales/Paginas/sistema-general-pensiones.aspx',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo. (2012, 16 de abril). Circular Externa 018 de 2012. Función Pública.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=71322',
+    },
+    {
+      referencia:
+        'Ministerio del Trabajo. (2026, 5 de marzo). Decreto 223 de 2026. Función Pública.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=272856',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (1954, 26 de febrero). Decreto 617 de 1954.',
+      link: '',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (1994, 22 de junio). Decreto 1295 de 1994.',
+      link: '',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2015, 26 de mayo). Decreto 1072 de 2015.',
+      link: '',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2016, 6 de mayo). Decreto 780 de 2016.',
       link: '',
     },
   ],

@@ -21,12 +21,12 @@
       .row.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-9.order-2.order-lg-1
           .row.align-items-stretch.mb-4
-            .col-12.col-md-5.px-0
-              img(src="@/assets/curso/temas/t1/img2.png", style="width:100%; height:100%; object-fit:cover;")
+            .col-12.col-md-5.px-0.mb-3
+              img(src="@/assets/curso/temas/t1/img2.png", style="width:350px; height:100%; object-fit:cover;").m-auto
             .col-12.col-md-7.d-flex.flex-column.justify-content-center
-              p.mb-3.bg-color-4.p-4 El derecho laboral colombiano se sustenta en diferentes fuentes normativas que regulan la contratación, la remuneración, la jornada, las prestaciones sociales, la seguridad social y las demás obligaciones derivadas de la relación laboral. Entre ellas se encuentran la <b>Constitución Política de Colombia, el Código Sustantivo del Trabajo</b>, las leyes, los decretos, las resoluciones, los convenios internacionales ratificados por Colombia, la jurisprudencia, las convenciones colectivas y los reglamentos de trabajo.
+              p.mb-3.bg-color-4.p-2 El derecho laboral colombiano se sustenta en diferentes fuentes normativas que regulan la contratación, la remuneración, la jornada, las prestaciones sociales, la seguridad social y las demás obligaciones derivadas de la relación laboral. Entre ellas se encuentran la <b>Constitución Política de Colombia, el Código Sustantivo del Trabajo</b>, las leyes, los decretos, las resoluciones, los convenios internacionales ratificados por Colombia, la jurisprudencia, las convenciones colectivas y los reglamentos de trabajo.
               p.mb-0 La <b>Constitución Política de Colombia</b>, principalmente en sus artículos 25 y 53, establece principios fundamentales que orientan la protección del trabajo y la interpretación de las disposiciones laborales. Para evitar reiteraciones y facilitar su comprensión, se presentan los artículos y el alcance de cada principio:
-        .col-lg-3.order-1.order-lg-2.mb-4.mb-lg-0
+        .col-lg-3.order-2.order-lg-2.mb-4.mb-lg-0
           figure.mb-0
             img.mx-auto(src="@/assets/curso/temas/t1/img3.png", data-aos="zoom-in", style="width: 500px;")
       //- Slideshow
@@ -198,14 +198,14 @@
       .row.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-3.mb-4.mb-lg-0
           figure.mb-0
-            img.mx-auto(src="@/assets/curso/temas/t1/img8.png", data-aos="zoom-in", style="width: 280px;")
+            img.mx-auto(src="@/assets/curso/temas/t1/img8.png", data-aos="zoom-in", style="width: 250px;")
         .col-lg-5.mb-4.mb-lg-0
           .d-flex.flex-column.justify-content-center
-            p.mb-3.bg-color-2.p-3 La normativa aplicable puede modificarse con el tiempo; por esta razón, la gestión de nómina requiere identificar las <b>disposiciones vigentes para el periodo que se procesa</b>, así como las condiciones particulares de cada trabajador. Esta revisión permite establecer correctamente los parámetros relacionados con la contratación, la jornada, los pagos y las obligaciones laborales.
+            p.mb-3.bg-color-2.p-2 La normativa aplicable puede modificarse con el tiempo; por esta razón, la gestión de nómina requiere identificar las <b>disposiciones vigentes para el periodo que se procesa</b>, así como las condiciones particulares de cada trabajador. Esta revisión permite establecer correctamente los parámetros relacionados con la contratación, la jornada, los pagos y las obligaciones laborales.
             p.mb-0 De esta manera, el marco normativo proporciona los fundamentos necesarios para determinar las condiciones de vinculación y los conceptos que deben incorporarse en la gestión de nómina. A partir de esta base, corresponde profundizar en los <b>elementos esenciales de la relación laboral</b>, cuya concurrencia permite establecer la existencia del contrato de trabajo.
         .col-lg-4
           figure.mb-0
-            img.mx-auto(src="@/assets/curso/temas/t1/img9.png", data-aos="zoom-in", style="width: 500px;")
+            img.mx-auto(src="@/assets/curso/temas/t1/img9.png", data-aos="zoom-in", style="width: 370px;")
       Separador
       //- Inicio Tema1.3
       .row
@@ -279,7 +279,7 @@
           h2 1.4 Contrato verbal, contrato escrito y primacía de la realidad
       .row.mb-5.justify-content-center.align-items-start
         .col-12.col-lg-9.order-2.order-lg-1(data-aos="fade-left")
-          p.mb-3.bg-color-3.p-4 El contrato de trabajo puede celebrarse verbalmente o por escrito, salvo que una disposición exija una forma determinada. En el <b>contrato verbal</b>, las partes deben acordar, como mínimo, la actividad y el lugar donde se realizará, la remuneración y su forma de pago, así como la duración del vínculo. El <b>contrato escrito</b> debe entregarse a cada parte e incluir la identificación, el lugar de prestación del servicio, las funciones, la remuneración, la periodicidad del pago, la duración y las condiciones de terminación (Código Sustantivo del Trabajo, 1951; Decreto 617, 1954).
+          p.mb-3.bg-color-8.p-4 El contrato de trabajo puede celebrarse verbalmente o por escrito, salvo que una disposición exija una forma determinada. En el <b>contrato verbal</b>, las partes deben acordar, como mínimo, la actividad y el lugar donde se realizará, la remuneración y su forma de pago, así como la duración del vínculo. El <b>contrato escrito</b> debe entregarse a cada parte e incluir la identificación, el lugar de prestación del servicio, las funciones, la remuneración, la periodicidad del pago, la duración y las condiciones de terminación (Código Sustantivo del Trabajo, 1951; Decreto 617, 1954).
           p La forma verbal no elimina los derechos laborales ni las obligaciones de nómina. No obstante, la legislación vigente exige que los contratos a término fijo y por duración de obra o labor determinada consten por escrito; cuando no se cumplen estas condiciones, pueden entenderse celebrados a término indefinido desde el inicio. Además, la <b>primacía de la realidad</b> establece que las condiciones efectivas del servicio prevalecen sobre el nombre o la forma asignada al acuerdo (Ley 2466 de 2025). Las principales diferencias entre las formas de celebración del contrato y su incidencia práctica se presentan a continuación:
         .col-12.col-sm-9.col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-right")
           figure.mb-0.text-center
@@ -373,7 +373,7 @@
           figure.mb-0.text-center
             img.mx-auto.img-fluid(src='@/assets/curso/temas/t1/img16.png', alt='', style="max-width: 600px;")
         .col-12.col-lg-7.order-2.order-lg-2(data-aos="fade-left")
-          p.mb-2.bg-color-2.p-3 Los soportes de vinculación permiten acreditar las condiciones acordadas y registrar correctamente al trabajador en la nómina. Según el caso, pueden comprender el contrato, los documentos de identificación, la información bancaria, las afiliaciones, los datos de beneficiarios, las constancias de entrega de reglamentos y los registros de ingreso. El empleador debe afiliar a las personas vinculadas laboralmente al sistema de salud, informar las novedades y realizar oportunamente los aportes; asimismo, la afiliación a riesgos laborales debe efectuarse antes del inicio de la actividad para garantizar la cobertura (Ley 100 de 1993).
+          p.mb-2.bg-color-8.p-3 Los <b>soportes de vinculación</b> permiten acreditar las condiciones acordadas y registrar correctamente al trabajador en la nómina. Según el caso, pueden comprender el contrato, los documentos de identificación, la información bancaria, las afiliaciones, los datos de beneficiarios, las constancias de entrega de reglamentos y los registros de ingreso. El empleador debe afiliar a las personas vinculadas laboralmente al sistema de salud, informar las novedades y realizar oportunamente los aportes; asimismo, la afiliación a riesgos laborales debe efectuarse antes del inicio de la actividad para garantizar la cobertura (Ley 100 de 1993).
           p Las responsabilidades y los principales soportes asociados con la vinculación se organizan de la siguiente manera:
       //- Inicio Accordion 1
       .bg--img_03.mt-5
@@ -429,7 +429,7 @@
           figure.mb-0.h-100
             img.mx-auto(src="@/assets/curso/temas/t1/img20.png", data-aos="zoom-in", style="width: 100%; height: 100%; object-fit: cover;")
         .col-lg-4.mb-4.mb-lg-0.d-flex.flex-column.justify-content-between
-          p.mb-3.bg-color-2.p-3 De esta forma, los derechos y las obligaciones de las partes se convierten en actividades concretas que deben estar respaldadas documentalmente. Un expediente de vinculación completo facilita el registro del trabajador, la liquidación de sus pagos y la validación posterior de las novedades de nómina.
+          p.mb-3.bg-color-8.p-3 De esta forma, los derechos y las obligaciones de las partes se convierten en actividades concretas que deben estar respaldadas documentalmente. Un expediente de vinculación completo facilita el registro del trabajador, la liquidación de sus pagos y la validación posterior de las novedades de nómina.
           p.mb-0 El marco normativo permite reconocer cuándo existe una relación laboral, cuáles modalidades contractuales pueden utilizarse y qué responsabilidades surgen para el empleador y el trabajador. La identificación de los elementos esenciales, la adecuada formalización del contrato y la conservación de los soportes proporcionan la base para determinar los pagos, aportes y novedades que deben incorporarse al proceso de nómina.
         .col-lg-3
           figure.mb-0.d-flex.align-items-center.h-100
