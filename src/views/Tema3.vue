@@ -377,7 +377,7 @@
           p.bg-color-6.p-3.fw-bold $140.000 + $150.000 = $290.000
           <br><br>
           p.mb-0 Aunque el total reconocido es de <b>$2.890.000</b>, la nómina debe diferenciar los $2.600.000 de naturaleza salarial de los $290.000 correspondientes a reembolsos y beneficios no salariales.
-      p(data-aos="fade-left") También debe registrar que una parte del salario fue entregada en especie y comprobar que su valor se encuentre dentro de los límites permitidos. En consecuencia, antes de liquidar la nómina es necesario revisar la modalidad salarial acordada, la finalidad de cada pago y los soportes que justifican su clasificación. Esta separación permite determinar correctamente el devengado y prepara la información para analizar la jornada laboral, el trabajo suplementario y los recargos.
+      p(data-aos="fade-left") También debe registrar que una parte del salario fue entregada en especie y comprobar que su valor se encuentre dentro de los límites permitidos. En consecuencia, antes de liquidar la nómina es necesario revisar la modalidad salarial acordada, la finalidad de cada pago y los soportes que justifican su clasificación. Esta separación permite determinar correctamente el devengado y preparar la información para analizar la jornada laboral, el trabajo suplementario y los recargos.
       Separador
       //- Inicio Tema3.3
       .row
@@ -563,7 +563,7 @@
                   img(src='@/assets/curso/temas/t3/tarjeta04_1.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Devengado salarial fijo
-                p Incluye el salario básico y el salario en especie pactado. Requiere revisar el contrato, el periodo y los días remunerados, e integra la remuneración salarial del periodo.                    
+                p Incluye el salario básico y el salario en especie pactado. Requiere revisar el contrato, el periodo y los días remunerados, e integrar la remuneración salarial del periodo.                    
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -963,6 +963,8 @@
         .col-lg-5.d-flex.order-1.order-lg-1
           figure.mb-0.w-100.h-100
             img.h-100.w-100(src='@/assets/curso/temas/t3/img20.png', alt='', style="object-fit: cover;")
+
+
 </template>
 
 <script>

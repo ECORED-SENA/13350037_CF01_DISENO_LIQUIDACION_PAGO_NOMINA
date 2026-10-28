@@ -184,7 +184,7 @@
             img.img-fluid(src="@/assets/curso/temas/t4/img4.png", alt="", style="width: 100%; height: 100%; object-fit: cover;")
         .col-12.col-md-12.col-lg-3(data-aos="fade-left")
           .h-100.d-flex.align-items-center
-            p.mb-0 De esta forma, la afiliación y el pago oportuno permiten que el trabajador y sus beneficiarios accedan a los servicios y prestaciones correspondientes. La identificación del ingreso base, los porcentajes y las novedades proporciona la información necesaria para diferenciar esta cobertura de la protección económica del sistema pensional.
+            p.mb-0 De esta forma, la afiliación y el pago oportuno permiten que el trabajador y sus beneficiarios accedan a los servicios y prestaciones correspondientes. La identificación del ingreso base, los porcentajes y las novedades proporcionan la información necesaria para diferenciar esta cobertura de la protección económica del sistema pensional.
       Separador
       //- Inicio Tema4.2
       .row
@@ -389,7 +389,7 @@
             p(data-aos="fade-left") La empresa debe registrar los <b>$128.000</b> como una deducción del trabajador y los <b>$384.000</b> como aporte patronal. Después del pago, debe conservar la planilla y revisar que el periodo, los días cotizados y el ingreso base hayan sido incorporados correctamente en la historia laboral.
       .row.justify-content-center.align-items-stretch.mb-5.g-0(data-aos="fade-right")
         .col-lg-7.bg-color-6.d-flex.flex-column.justify-content-center.p-4.order-2.order-lg-2
-          p <b>Nota normativa</b>. La entrada en vigencia integral de la <b>Ley 2381 de 2024</b> fue suspendida mientras la Corte Constitucional adopta una decisión definitiva sobre su constitucionalidad, salvo las disposiciones expresamente exceptuadas. Por ello, antes de parametrizar o liquidar aportes debe revisarse cuál régimen y normativa se encuentran vigentes para el periodo procesado.
+          p <b>Nota normativa</b>. La entrada en vigencia integral de la <b>Ley 2381 de 2024</b> fue suspendida mientras la Corte Constitucional adopta una decisión definitiva sobre su constitucionalidad, salvo las disposiciones expresamente exceptuadas. Por ello, antes de parametrizar o liquidar aportes, debe revisarse qué régimen y normativa se encuentran vigentes para el periodo procesado.
         .col-lg-5.d-flex.order-1.order-lg-1
           figure.mb-0.w-100.h-100
             img.h-100.w-100(src='@/assets/curso/temas/t4/img11.png', alt='', style="object-fit: cover;")

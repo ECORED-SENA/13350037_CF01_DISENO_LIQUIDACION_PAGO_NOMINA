@@ -125,7 +125,7 @@
             img.mx-auto.img-fluid(src='@/assets/curso/temas/t2/img5.png', alt='', style="max-width: 600px;")
         .col-12.col-lg-8.order-2.order-lg-2(data-aos="fade-left")
           p.mb-3.bg-color-2.p-3 El <b>contrato a término fijo</b> establece previamente la fecha de inicio y terminación de la relación laboral. Debe celebrarse por escrito y su duración total, incluidas las prórrogas, no puede superar cuatro años. Cuando no se cumple la formalidad escrita o se excede este límite, el vínculo se entiende celebrado a término indefinido desde el inicio. Durante su vigencia, el trabajador tiene derecho al salario, la seguridad social, las vacaciones y las prestaciones sociales proporcionales al tiempo laborado (Ley 2466 de 2025).
-          p La prórroga puede ser <b>pactada o automática</b>. La primera se realiza mediante acuerdo escrito entre las partes; cuando el plazo inicial es inferior a un año, puede renovarse varias veces, pero, después de la cuarta prórroga, los periodos siguientes no pueden ser inferiores a un año. La prórroga automática ocurre cuando ninguna de las partes comunica su intención de terminar el vínculo con una anticipación mínima de treinta días respecto del vencimiento. En todos los casos debe respetarse el límite máximo de cuatro años (Ley 2466 de 2025).
+          p La prórroga puede ser <b>pactada o automática</b>. La primera se realiza mediante acuerdo escrito entre las partes; cuando el plazo inicial es inferior a un año, puede renovarse varias veces, pero después de la cuarta prórroga, los periodos siguientes no pueden ser inferiores a un año. La prórroga automática ocurre cuando ninguna de las partes comunica su intención de terminar el vínculo con una anticipación mínima de treinta días respecto del vencimiento. En todos los casos debe respetarse el límite máximo de cuatro años (Ley 2466 de 2025).
       p(data-aos="fade-left") A continuación, se presenta un video sobre el control de los contratos a término fijo y sus prórrogas, en el que se explican los requisitos, plazos y aspectos fundamentales para su adecuada gestión en la nómina.
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
@@ -338,7 +338,7 @@
                               img(src='@/assets/curso/temas/t2/tarjeta03_1.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Remuneración
-                            p.text-start En la relación laboral se reconoce salario y se procesa en nómina. En la prestación de servicios se pagan honorarios según el contrato y los entregables.
+                            p.text-start En la relación laboral se reconoce el salario y se procesa en nómina. En la prestación de servicios se pagan honorarios según el contrato y los entregables.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto

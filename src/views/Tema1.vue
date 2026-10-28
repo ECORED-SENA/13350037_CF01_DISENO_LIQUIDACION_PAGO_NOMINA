@@ -60,7 +60,7 @@
                   img(src='@/assets/curso/temas/t1/tarjeta01_4.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Artículo 53
-                p <b>Estabilidad en el empleo</b>. Reconoce la estabilidad como principio mínimo fundamental del trabajo. En la gestión laboral, requiere considerar las condiciones de vinculación y terminación establecidas en la normativa.
+                p <b>Estabilidad en el empleo</b>. Reconoce la estabilidad como principio mínimo fundamental del trabajo. En la gestión laboral, se requiere considerar las condiciones de vinculación y terminación establecidas en la normativa.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -271,7 +271,7 @@
             img.img-fluid.rounded-3(src="@/assets/curso/temas/t1/img12.png", alt="", style="width: 100%; height: 100%; object-fit: cover;")
         .col-12.col-md-12.col-lg-4(data-aos="fade-left")
           .h-100.d-flex.align-items-center
-            p.mb-0 De esta forma, identificar los elementos esenciales permite diferenciar una relación laboral de una contratación independiente y establecer qué pagos, aportes y novedades deben procesarse en la nómina. Este análisis también proporciona la base para estudiar las formas verbal y escrita mediante las cuales puede celebrarse el contrato de trabajo.
+            p.mb-0 De esta forma, identificar los elementos esenciales permite diferenciar una relación laboral de una contratación independiente y establecer qué pagos, aportes y novedades deben procesarse en la nómina. Este análisis también proporciona la base para estudiar las formas verbales y escritas mediante las cuales puede celebrarse el contrato de trabajo.
       Separador
       //- Inicio Tema1.4
       .row
